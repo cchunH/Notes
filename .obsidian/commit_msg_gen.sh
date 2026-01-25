@@ -1,0 +1,1 @@
+f=$(git diff --cached --name-only | head -n 1); dir=$(dirname "$f"); name=$(basename "$f" .md); echo "[$dir] $name (+$(git diff --cached --name-only | wc -l | xargs -I {} expr {} - 1) others)"
