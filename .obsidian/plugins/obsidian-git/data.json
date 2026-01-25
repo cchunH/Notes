@@ -1,7 +1,7 @@
 {
   "commitMessage": "Save: {{files}}",
   "autoCommitMessage": "Auto: {{files}}",
-  "commitMessageScript": "bash .obsidian/commit_msg_gen.sh",
+  "commitMessageScript": "bash \"D:\\Notes\\.obsidian\\commit_msg_gen.sh\"",
   "commitDateFormat": "YYYY-MM-DD HH:mm",
   "autoSaveInterval": 10,
   "autoPushInterval": 30,
