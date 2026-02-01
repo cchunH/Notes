@@ -1,0 +1,19 @@
+{
+  "id": "conv-1769947369370-sfffer8p1",
+  "title": "Summarize and enrich study notes in canvas",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769947369371,
+  "updatedAt": 1769949057092,
+  "lastResponseAt": 1769949057092,
+  "sessionId": "a0705ffd-61d7-4d54-8f74-7a3401c3a671",
+  "sdkSessionId": "a0705ffd-61d7-4d54-8f74-7a3401c3a671",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

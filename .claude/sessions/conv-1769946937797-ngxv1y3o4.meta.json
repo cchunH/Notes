@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769946937797-ngxv1y3o4",
+  "title": "Analyze request correctness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769946937803,
+  "updatedAt": 1769947273624,
+  "lastResponseAt": 1769946978186,
+  "sessionId": "784e0bc6-edad-4c58-a0b0-a5505fe88dad",
+  "sdkSessionId": "784e0bc6-edad-4c58-a0b0-a5505fe88dad",
+  "currentNote": "Rag/rag基本流程.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

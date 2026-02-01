@@ -1,0 +1,331 @@
+{
+  "nodes": [
+    {
+      "id": "main",
+      "type": "text",
+      "text": "# RAG\n\n**检索增强生成**\n\n连接通用大模型与专业应用的桥梁",
+      "textSize": 22,
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 200,
+      "color": "#ffd700"
+    },
+    {
+      "id": "group-problems",
+      "type": "group",
+      "x": -320,
+      "y": 260,
+      "width": 280,
+      "height": 800,
+      "label": "🚫 大模型痛点",
+      "color": "1"
+    },
+    {
+      "id": "p-title",
+      "type": "text",
+      "text": "## 痛点分析",
+      "x": -300,
+      "y": 290,
+      "width": 240,
+      "height": "",
+      "color": "#ff7675"
+    },
+    {
+      "id": "p1",
+      "type": "text",
+      "text": "## 📚 知识专业性\n\n- 缺乏领域深度理解\n- 医疗、法律、代码等\n- 行业最佳实践缺失",
+      "x": -300,
+      "y": 340,
+      "width": 240,
+      "height": "",
+      "color": "#ffeaa7"
+    },
+    {
+      "id": "p2",
+      "type": "text",
+      "text": "## ⏰ 知识时效性\n\n- 训练数据固定截点\n- 最新政策/技术滞后\n- 市场动态信息缺失",
+      "x": -300,
+      "y": 460,
+      "width": 240,
+      "height": "",
+      "color": "#ffeaa7"
+    },
+    {
+      "id": "p3",
+      "type": "text",
+      "text": "## 🎲 随机性与幻觉\n\n- 编造不存在的文档\n- 不确定时产生幻觉\n- 信息交叉引用错误",
+      "x": -300,
+      "y": 580,
+      "width": 240,
+      "height": "",
+      "color": "#ff7675"
+    },
+    {
+      "id": "group-values",
+      "type": "group",
+      "x": 0,
+      "y": 260,
+      "width": 400,
+      "height": 800,
+      "label": "⭐ 核心价值",
+      "color": "3"
+    },
+    {
+      "id": "v-title",
+      "type": "text",
+      "text": "## 核心价值",
+      "x": 20,
+      "y": 290,
+      "width": 360,
+      "height": "",
+      "color": "#55efc4"
+    },
+    {
+      "id": "v1",
+      "type": "text",
+      "text": "## ✓ 准确性\n基于事实回答，减少幻觉",
+      "x": 20,
+      "y": 340,
+      "width": 360,
+      "height": "",
+      "color": "#81ecec"
+    },
+    {
+      "id": "v2",
+      "type": "text",
+      "text": "## ✓ 及时性\n结合最新数据，实时更新",
+      "x": 20,
+      "y": 410,
+      "width": 360,
+      "height": "",
+      "color": "#81ecec"
+    },
+    {
+      "id": "v3",
+      "type": "text",
+      "text": "## ✓ 专业性\n领域知识库，深度理解",
+      "x": 20,
+      "y": 480,
+      "width": 360,
+      "height": "",
+      "color": "#81ecec"
+    },
+    {
+      "id": "v4",
+      "type": "text",
+      "text": "## ✓ 私有化\n企业数据安全可控",
+      "x": 20,
+      "y": 550,
+      "width": 360,
+      "height": "",
+      "color": "#81ecec"
+    },
+    {
+      "id": "group-solutions",
+      "type": "group",
+      "x": 420,
+      "y": 260,
+      "width": 380,
+      "height": 800,
+      "label": "✅ RAG 解决方案",
+      "color": "2"
+    },
+    {
+      "id": "s-title",
+      "type": "text",
+      "text": "## 解决方案",
+      "x": 440,
+      "y": 290,
+      "width": 340,
+      "height": "",
+      "color": "#55efc4"
+    },
+    {
+      "id": "s1",
+      "type": "text",
+      "text": "## 🏗️ 架构流程\n\n### 索引构建\n- 文档分块\n- Embedding 编码\n- 向量存储\n\n### 查询检索\n- 向量相似度搜索\n- 重排序\n\n### 生成回答\n- 构建上下文\n- LLM 生成",
+      "x": 440,
+      "y": 340,
+      "width": 340,
+      "height": "",
+      "color": "#74b9ff"
+    },
+    {
+      "id": "s2",
+      "type": "text",
+      "text": "## 🔍 检索技术\n\n- 向量检索: 余弦/点积/欧氏\n- 关键词检索: BM25\n- 混合检索: 语义+关键词",
+      "x": 440,
+      "y": 530,
+      "width": 340,
+      "height": "",
+      "color": "#fd79a8"
+    },
+    {
+      "id": "s3",
+      "type": "text",
+      "text": "## ⚡ 优化技巧\n\n- 文本分块: 256-1024 tokens\n- 重排序: Cross-Encoder\n- 上下文优化: 动态窗口",
+      "x": 440,
+      "y": 670,
+      "width": 340,
+      "height": "",
+      "color": "#6c5ce7"
+    },
+    {
+      "id": "group-tech",
+      "type": "group",
+      "x": 820,
+      "y": 260,
+      "width": 320,
+      "height": 400,
+      "label": "🔧 技术栈",
+      "color": "5"
+    },
+    {
+      "id": "t-title",
+      "type": "text",
+      "text": "## 技术栈",
+      "x": 840,
+      "y": 290,
+      "width": 280,
+      "height": "",
+      "color": "#fdcb6e"
+    },
+    {
+      "id": "t1",
+      "type": "text",
+      "text": "## 📥 Embedding 模型\n\nOpenAI: text-embedding-3\nBGE/M3E: 中文优化\nVoyage: 高性能",
+      "x": 840,
+      "y": 340,
+      "width": 280,
+      "height": "",
+      "color": "#e17055"
+    },
+    {
+      "id": "t2",
+      "type": "text",
+      "text": "## 📊 向量数据库\n\nPinecone: 云原生\nChromaDB: 本地/云\nFAISS: Facebook\nWeaviate: 向量引擎",
+      "x": 840,
+      "y": 470,
+      "width": 280,
+      "height": "",
+      "color": "#00b894"
+    },
+    {
+      "id": "t3",
+      "type": "text",
+      "text": "## 🛠️ 框架工具\n\nLangChain: 通用框架\nLlamaIndex: 数据框架\nHaystack: 搜索框架",
+      "x": 840,
+      "y": 600,
+      "width": 280,
+      "height": "",
+      "color": "#6c5ce7"
+    },
+    {
+      "id": "group-apps",
+      "type": "group",
+      "x": 820,
+      "y": 690,
+      "width": 320,
+      "height": 370,
+      "label": "💼 企业应用",
+      "color": "4"
+    },
+    {
+      "id": "a-title",
+      "type": "text",
+      "text": "## 企业应用",
+      "x": 840,
+      "y": 720,
+      "width": 280,
+      "height": "",
+      "color": "#a29bfe"
+    },
+    {
+      "id": "a1",
+      "type": "text",
+      "text": "## 业务场景\n\n- 客服支持：知识库回复\n- 报告生成：数据支撑\n- 合规审查：法规验证",
+      "x": 840,
+      "y": 770,
+      "width": 280,
+      "height": "",
+      "color": "#a29bfe"
+    },
+    {
+      "id": "a2",
+      "type": "text",
+      "text": "## 私域管理\n\n- 技术文档/代码库\n- 内部Wiki/会议记录\n- 数据安全/隐私保护",
+      "x": 840,
+      "y": 870,
+      "width": 280,
+      "height": "",
+      "color": "#a29bfe"
+    },
+    {
+      "id": "a3",
+      "type": "text",
+      "text": "## 适用场景\n\n### ✅ 推荐使用\n文档问答/内部查询/实时查询\n\n### ❌ 不推荐使用\n通用任务/创意写作",
+      "x": 840,
+      "y": 970,
+      "width": 280,
+      "height": "",
+      "color": "#fab1a0"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "group-problems",
+      "fromSide": "right",
+      "toNode": "group-values",
+      "toSide": "left",
+      "label": "→",
+      "color": "1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "group-values",
+      "fromSide": "right",
+      "toNode": "group-solutions",
+      "toSide": "left",
+      "label": "→",
+      "color": "2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "group-values",
+      "fromSide": "bottom",
+      "toNode": "group-apps",
+      "toSide": "top",
+      "label": "→",
+      "color": "3"
+    },
+    {
+      "id": "e4",
+      "fromNode": "group-solutions",
+      "fromSide": "right",
+      "toNode": "group-tech",
+      "toSide": "left",
+      "label": "→",
+      "color": "4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "group-solutions",
+      "fromSide": "bottom",
+      "toNode": "s2",
+      "toSide": "top",
+      "label": "检索",
+      "color": "2"
+    },
+    {
+      "id": "e6",
+      "fromNode": "group-solutions",
+      "fromSide": "bottom",
+      "toNode": "s3",
+      "toSide": "top",
+      "label": "优化",
+      "color": "2"
+    }
+  ]
+}
