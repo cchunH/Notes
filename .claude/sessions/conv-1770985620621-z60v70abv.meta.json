@@ -1,0 +1,19 @@
+{
+  "id": "conv-1770985620621-z60v70abv",
+  "title": "Explain RAG system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770985620623,
+  "updatedAt": 1770985658234,
+  "lastResponseAt": 1770985658234,
+  "sessionId": "cc1cff15-1ff7-44fa-96a3-6cab2e8c08d1",
+  "sdkSessionId": "cc1cff15-1ff7-44fa-96a3-6cab2e8c08d1",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
