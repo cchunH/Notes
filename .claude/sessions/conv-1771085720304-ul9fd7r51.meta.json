@@ -1,0 +1,20 @@
+{
+  "id": "conv-1771085720304-ul9fd7r51",
+  "title": "Read image content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1771085720304,
+  "updatedAt": 1771085729676,
+  "lastResponseAt": 1771085729676,
+  "sessionId": "67cf3b60-1b60-4dff-9737-660351cce7a6",
+  "sdkSessionId": "67cf3b60-1b60-4dff-9737-660351cce7a6",
+  "currentNote": "Rag/rag基本流程.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
