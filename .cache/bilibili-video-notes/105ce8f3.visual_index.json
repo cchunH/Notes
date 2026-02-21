@@ -1,0 +1,126 @@
+{
+  "summary": {
+    "task_id": "105ce8f3",
+    "candidate_count": 72,
+    "scored_count": 72,
+    "deduped_count": 40,
+    "selected_count": 6,
+    "scenedetect_enabled": true,
+    "scene_threshold": 0.26,
+    "align_window_sec": 7,
+    "dedup_threshold": 0.95,
+    "alignment_fallback": true,
+    "strategy": "smart",
+    "inserted_inline": true
+  },
+  "key_points": [
+    {
+      "timestamp": "00:07",
+      "timestamp_sec": 7,
+      "chapter": "CH1",
+      "chapter_index": 1,
+      "image_path": "assets/SKILL到底有什么用 抓包拆解SKILL本质/file-20260221213757481.png",
+      "ocr_text": "' `' 技能是人工智能代理可重用的功能。只需一条命令即 9 可安装技能;从而增强代理对程序知识的访问权限。 开放代理技能生态系统 祟命伞6可安装 SMIDLG skills LOTeTeO0- 血 摸簏排行, 岛]8@写 N』授丐 宅〉 (31,805 燕门(24时 4的 l- VCTCCL-TCaCIt 品佳实跬 Vercel-labslagent 5「J」 屑页设计指南 Vercel-labs/aqant- 5KI115 移除鼠佳实践  疹阵开芨 /镬毹 哥找技能 NOL「e_ ~labs | r疵 我们来看看skills到底能够做什么 ?",
+      "score_breakdown": {
+        "score": 0.5679,
+        "clarity": 1.0,
+        "complexity": 0.2172,
+        "exposure": 0.9975,
+        "ocr": 0.2142
+      },
+      "alignment_source": "llm_anchor",
+      "keywords": [],
+      "alignment_fallback": false
+    },
+    {
+      "timestamp": "01:34",
+      "timestamp_sec": 94,
+      "chapter": "CH2",
+      "chapter_index": 2,
+      "image_path": "assets/SKILL到底有什么用 抓包拆解SKILL本质/file-20260221213757487.png",
+      "ocr_text": "你要这么 我要-个鹃~ ' ' 做. SKILL 开发 运行 P Claude Code PPT制作程序 取决于Agent与大模型是否足够强 Pptx",
+      "score_breakdown": {
+        "score": 0.396,
+        "clarity": 1.0,
+        "complexity": 0.1258,
+        "exposure": 0.1843,
+        "ocr": 0.24
+      },
+      "alignment_source": "llm_anchor_extended",
+      "keywords": [],
+      "alignment_fallback": false
+    },
+    {
+      "timestamp": "01:57",
+      "timestamp_sec": 117,
+      "chapter": "CH3",
+      "chapter_index": 3,
+      "image_path": "assets/SKILL到底有什么用 抓包拆解SKILL本质/file-20260221213757489.png",
+      "ocr_text": "TyPOI 文仵 段落 格式 显示 主胭 氨0 帮助 旦搜狗五鼍 17:17 SKILL 基砷原理md 巳r冁 SKILL 基原理:md 鲁班大叔_007 bbs TTu 文件 忖W功完4+('位镬恹 A缩程科普 img 所以它们就提出了这个SKILL技能这个概念; 目的是扩展Agent能力。通常扩展-个功能是先开发然后在发版。这个周期太长了。 Claude Code本 身就会开发。为啥不是用户霈斐什么就现场开发-个? 当你婴需夔制作个PPT时: Claude Code Agent垄础原理 md Claude Code Mcp的原理 md Claude Code 会根据你需要现场开发 个PPT 制作程序。然后运行这个程序来生成PPT。 SKILL 作用就是告诉41如何生成这个 PPT制作程 SKILL 基础原瑾 md 序? 其本质就是 ~本说明书, 个A1提示词包。 但从说明书到  制作好",
+      "score_breakdown": {
+        "score": 0.5634,
+        "clarity": 1.0,
+        "complexity": 0.2807,
+        "exposure": 0.4301,
+        "ocr": 0.4892
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "01:57",
+      "timestamp_sec": 117,
+      "chapter": "CH4",
+      "chapter_index": 4,
+      "image_path": "assets/SKILL到底有什么用 抓包拆解SKILL本质/file-20260221213757493.png",
+      "ocr_text": "TyPOI 文仵 段落 格式 显示 主胭 氨0 帮助 旦搜狗五鼍 17:17 SKILL 基砷原理md 巳r冁 SKILL 基原理:md 鲁班大叔_007 bbs TTu 文件 忖W功完4+('位镬恹 A缩程科普 img 所以它们就提出了这个SKILL技能这个概念; 目的是扩展Agent能力。通常扩展-个功能是先开发然后在发版。这个周期太长了。 Claude Code本 身就会开发。为啥不是用户霈斐什么就现场开发-个? 当你婴需夔制作个PPT时: Claude Code Agent垄础原理 md Claude Code Mcp的原理 md Claude Code 会根据你需要现场开发 个PPT 制作程序。然后运行这个程序来生成PPT。 SKILL 作用就是告诉41如何生成这个 PPT制作程 SKILL 基础原瑾 md 序? 其本质就是 ~本说明书, 个A1提示词包。 但从说明书到  制作好",
+      "score_breakdown": {
+        "score": 0.5634,
+        "clarity": 1.0,
+        "complexity": 0.2807,
+        "exposure": 0.4301,
+        "ocr": 0.4892
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "01:57",
+      "timestamp_sec": 117,
+      "chapter": "CH5",
+      "chapter_index": 5,
+      "image_path": "assets/SKILL到底有什么用 抓包拆解SKILL本质/file-20260221213757496.png",
+      "ocr_text": "TyPOI 文仵 段落 格式 显示 主胭 氨0 帮助 旦搜狗五鼍 17:17 SKILL 基砷原理md 巳r冁 SKILL 基原理:md 鲁班大叔_007 bbs TTu 文件 忖W功完4+('位镬恹 A缩程科普 img 所以它们就提出了这个SKILL技能这个概念; 目的是扩展Agent能力。通常扩展-个功能是先开发然后在发版。这个周期太长了。 Claude Code本 身就会开发。为啥不是用户霈斐什么就现场开发-个? 当你婴需夔制作个PPT时: Claude Code Agent垄础原理 md Claude Code Mcp的原理 md Claude Code 会根据你需要现场开发 个PPT 制作程序。然后运行这个程序来生成PPT。 SKILL 作用就是告诉41如何生成这个 PPT制作程 SKILL 基础原瑾 md 序? 其本质就是 ~本说明书, 个A1提示词包。 但从说明书到  制作好",
+      "score_breakdown": {
+        "score": 0.5634,
+        "clarity": 1.0,
+        "complexity": 0.2807,
+        "exposure": 0.4301,
+        "ocr": 0.4892
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "01:57",
+      "timestamp_sec": 117,
+      "chapter": "CH6",
+      "chapter_index": 6,
+      "image_path": "assets/SKILL到底有什么用 抓包拆解SKILL本质/file-20260221213757498.png",
+      "ocr_text": "TyPOI 文仵 段落 格式 显示 主胭 氨0 帮助 旦搜狗五鼍 17:17 SKILL 基砷原理md 巳r冁 SKILL 基原理:md 鲁班大叔_007 bbs TTu 文件 忖W功完4+('位镬恹 A缩程科普 img 所以它们就提出了这个SKILL技能这个概念; 目的是扩展Agent能力。通常扩展-个功能是先开发然后在发版。这个周期太长了。 Claude Code本 身就会开发。为啥不是用户霈斐什么就现场开发-个? 当你婴需夔制作个PPT时: Claude Code Agent垄础原理 md Claude Code Mcp的原理 md Claude Code 会根据你需要现场开发 个PPT 制作程序。然后运行这个程序来生成PPT。 SKILL 作用就是告诉41如何生成这个 PPT制作程 SKILL 基础原瑾 md 序? 其本质就是 ~本说明书, 个A1提示词包。 但从说明书到  制作好",
+      "score_breakdown": {
+        "score": 0.5634,
+        "clarity": 1.0,
+        "complexity": 0.2807,
+        "exposure": 0.4301,
+        "ocr": 0.4892
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    }
+  ]
+}
