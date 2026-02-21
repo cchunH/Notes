@@ -1,0 +1,6 @@
+{
+  "task_id": "4c648259",
+  "status": "failed",
+  "message": "ERROR: [BiliBili] 1DQ6wBoEtN: Unable to download webpage: HTTP Error 412: Precondition Failed (caused by <HTTPError 412: Precondition Failed>)\n检测到 B站 412。通常与代理出口或 cookies 状态有关，请优先尝试关闭代理后重试，或刷新 cookies 文件。",
+  "progress": null
+}
