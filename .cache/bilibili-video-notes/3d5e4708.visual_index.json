@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "task_id": "3d5e4708",
+    "candidate_count": 72,
+    "scored_count": 72,
+    "deduped_count": 55,
+    "selected_count": 3,
+    "scenedetect_enabled": true,
+    "scene_threshold": 0.26,
+    "align_window_sec": 7,
+    "dedup_threshold": 0.95,
+    "alignment_fallback": true,
+    "strategy": "smart",
+    "inserted_inline": true
+  },
+  "key_points": [
+    {
+      "timestamp": "00:03",
+      "timestamp_sec": 3,
+      "chapter": "CH1",
+      "chapter_index": 1,
+      "image_path": "attachments/AI大模型应用开发工程师面试指导真实面试场景12问-Agent多智能体MivusRAG的准确率和召回率/file-20260222180015238.png",
+      "ocr_text": "0bMC I立中打开 兵老师 鸪集团 MCA高级架构师-精选面试题库-百万八股面试宝典 收盂 盲页 1626文档 2201144丰 目灵 J}旧关 J周忧底层归关 Kalkafs 欢迎来到码士教育 MCA 高级架构师-精选面试题库-百万八股面试宝典 Kubernetes扫关 Uinux相关 MongoD8 相关 多智能体交茧庐式有几种 是吧 MQ旧关 MySOL桕关 大井发 `大歆据 大楗 Mygals(关 以及其他离频。大厂核心面试蹬 架杓体系技术栈核心知识点 MyBatisPlusw关 Neej旧关 Netty 旧关 本套面试宝典核心优势 Ngimit 多技术方向全罹蓝 Oracl  们关 &焦 MCA 莜心堪块。 直击行业沿与岗位热点。不卓任何关,专点 Postgresq扫关 名师云黛; 品质屎障 RabbitlQ相关 数十位内大咖严格筛祛。 每道魉目均为 \"经过深思熟墙且高宦凝练\"",
+      "score_breakdown": {
+        "score": 0.5192,
+        "clarity": 0.7754,
+        "complexity": 0.246,
+        "exposure": 0.9186,
+        "ocr": 0.264
+      },
+      "alignment_source": "llm_anchor",
+      "keywords": [],
+      "alignment_fallback": false
+    },
+    {
+      "timestamp": "01:42",
+      "timestamp_sec": 102,
+      "chapter": "CH2",
+      "chapter_index": 2,
+      "image_path": "attachments/AI大模型应用开发工程师面试指导真实面试场景12问-Agent多智能体MivusRAG的准确率和召回率/file-20260222180015238-1.png",
+      "ocr_text": "IIC da-I-Mlnag 马士兵老师 bosli mshlhinmca-aezzqblmca I;中打开 N# 如果你正准备冲剌大厂面试。希望系统捏升面试技术功力。 本戆库将成为你迈向声级架构师之窈的&有力助手 立即开启学习吧~ MCA高级架构师-耢选 盲页 面试实击体系相关 目灵 Java企业架杓体系相关 J}心旧关 AI大 楼型相关 M调忧座层相关 HR 胤试软技能 Kalkafk 如何进行自我介绍? VCTeoumq6kAwfbf Kubernetes扫关 你个性上的]大忧点是什么? nlglbpgibtzeTG0o Uinux相关 dbigSd2Tlmodao Mongo08归关 都作为图里面的一个节点 Imgn53gsuldqalu MQB关 ndgGAmyggaancduk MySOL桕关 你还有什么问题耍问吗? 4990914618446320 Mygalis桕关 面通过",
+      "score_breakdown": {
+        "score": 0.4716,
+        "clarity": 0.5798,
+        "complexity": 0.2092,
+        "exposure": 0.9339,
+        "ocr": 0.28
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "01:42",
+      "timestamp_sec": 102,
+      "chapter": "CH3",
+      "chapter_index": 3,
+      "image_path": "attachments/AI大模型应用开发工程师面试指导真实面试场景12问-Agent多智能体MivusRAG的准确率和召回率/file-20260222180015243.png",
+      "ocr_text": "IIC da-I-Mlnag 马士兵老师 bosli mshlhinmca-aezzqblmca I;中打开 N# 如果你正准备冲剌大厂面试。希望系统捏升面试技术功力。 本戆库将成为你迈向声级架构师之窈的&有力助手 立即开启学习吧~ MCA高级架构师-耢选 盲页 面试实击体系相关 目灵 Java企业架杓体系相关 J}心旧关 AI大 楼型相关 M调忧座层相关 HR 胤试软技能 Kalkafk 如何进行自我介绍? VCTeoumq6kAwfbf Kubernetes扫关 你个性上的]大忧点是什么? nlglbpgibtzeTG0o Uinux相关 dbigSd2Tlmodao Mongo08归关 都作为图里面的一个节点 Imgn53gsuldqalu MQB关 ndgGAmyggaancduk MySOL桕关 你还有什么问题耍问吗? 4990914618446320 Mygalis桕关 面通过",
+      "score_breakdown": {
+        "score": 0.4716,
+        "clarity": 0.5798,
+        "complexity": 0.2092,
+        "exposure": 0.9339,
+        "ocr": 0.28
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    }
+  ]
+}

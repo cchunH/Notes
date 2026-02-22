@@ -1,14 +1,14 @@
 {
-  "task_id": "3d5e4708",
+  "task_id": "a7647374",
   "status": "success",
-  "message": "完成: D:\\Notes\\bilibili\\AI大模型应用开发工程师面试指导真实面试场景12问-Agent多智能体MivusRAG的准确率和召回率.md",
+  "message": "完成: D:\\Notes\\AI大模型应用开发工程师面试指导真实面试场景12问-Agent多智能体MivusRAG的准确率和召回率.md",
   "progress": null,
   "details": {
     "structure_budget": {
       "target_sections": 10,
       "min_sections": 8,
       "max_sections": 10,
-      "complexity_hint": "时长约26.0分钟，分段密度41.8/分钟，术语命中25",
+      "complexity_hint": "时长约26.0分钟，分段密度41.4/分钟，术语命中22",
       "note_profile": "mock_interview",
       "structure_mode": "adaptive"
     },
@@ -16,8 +16,8 @@
       "enabled": true,
       "trigger_reason": "long_content_and_short_note",
       "duration_min": 26.0,
-      "segment_count": 1088,
-      "markdown_chars": 2165,
+      "segment_count": 1076,
+      "markdown_chars": 1468,
       "long_content": true,
       "low_coverage_signal": true,
       "thresholds": {

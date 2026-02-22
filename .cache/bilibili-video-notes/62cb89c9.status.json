@@ -1,0 +1,7 @@
+{
+  "task_id": "62cb89c9",
+  "status": "failed",
+  "message": "ERROR: [generic] 'BV16zyhBAETx' is not a valid URL. Set --default-search \"ytsearch\" (or run  yt-dlp \"ytsearch:BV16zyhBAETx\" ) to search YouTube",
+  "progress": null,
+  "details": null
+}
