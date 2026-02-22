@@ -1,0 +1,31 @@
+{
+  "task_id": "2b1bab06",
+  "status": "postprocessing",
+  "message": "后处理标记",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 10,
+      "min_sections": 8,
+      "max_sections": 10,
+      "complexity_hint": "时长约26.0分钟，分段密度42.6/分钟，术语命中21",
+      "note_profile": "mock_interview",
+      "structure_mode": "adaptive"
+    },
+    "note_audit": {
+      "enabled": true,
+      "trigger_reason": "long_content_and_short_note",
+      "duration_min": 26.0,
+      "segment_count": 1107,
+      "markdown_chars": 1592,
+      "long_content": true,
+      "low_coverage_signal": true,
+      "thresholds": {
+        "audit_min_duration_min": 15,
+        "audit_min_segments": 300,
+        "audit_min_markdown_chars": 3200
+      },
+      "executed": false
+    }
+  }
+}

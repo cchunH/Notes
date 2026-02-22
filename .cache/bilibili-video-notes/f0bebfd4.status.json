@@ -1,0 +1,16 @@
+{
+  "task_id": "f0bebfd4",
+  "status": "failed",
+  "message": "LLM 返回空内容",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 10,
+      "min_sections": 8,
+      "max_sections": 10,
+      "complexity_hint": "时长约26.0分钟，分段密度39.4/分钟，术语命中25",
+      "note_profile": "mock_interview",
+      "structure_mode": "adaptive"
+    }
+  }
+}
