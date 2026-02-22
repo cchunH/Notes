@@ -1,0 +1,16 @@
+{
+  "task_id": "8418d35b",
+  "status": "success",
+  "message": "完成: D:\\Notes\\bilibili\\SKILL到底有什么用 抓包拆解SKILL本质.md",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 7,
+      "min_sections": 5,
+      "max_sections": 8,
+      "complexity_hint": "时长约17.7分钟，分段密度33.2/分钟，术语命中7",
+      "note_profile": "lecture",
+      "structure_mode": "adaptive"
+    }
+  }
+}
