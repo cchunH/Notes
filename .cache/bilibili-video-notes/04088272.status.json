@@ -1,0 +1,16 @@
+{
+  "task_id": "04088272",
+  "status": "success",
+  "message": "完成: D:\\Notes\\Token 到底是什么 揭秘大模型背后的文字压缩术.md",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 7,
+      "min_sections": 5,
+      "max_sections": 8,
+      "complexity_hint": "时长约10.5分钟，分段密度28.4/分钟，术语命中58",
+      "note_profile": "hands_on",
+      "structure_mode": "adaptive"
+    }
+  }
+}

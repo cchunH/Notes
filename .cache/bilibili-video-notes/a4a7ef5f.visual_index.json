@@ -1,0 +1,128 @@
+{
+  "summary": {
+    "task_id": "a4a7ef5f",
+    "candidate_count": 72,
+    "scored_count": 72,
+    "deduped_count": 46,
+    "anchor_count": 6,
+    "selected_count": 6,
+    "selected_unique_count": 6,
+    "scenedetect_enabled": true,
+    "scene_threshold": 0.26,
+    "align_window_sec": 7,
+    "dedup_threshold": 0.95,
+    "alignment_fallback": true,
+    "strategy": "smart",
+    "inserted_inline": true
+  },
+  "key_points": [
+    {
+      "timestamp": "01:09",
+      "timestamp_sec": 69,
+      "chapter": "CH1",
+      "chapter_index": 1,
+      "image_path": "assets/Token 到底是什么 揭秘大模型背后的文字压缩术/file-20260223024546813.png",
+      "ocr_text": "马克的技术工作坊 Llbl 编码 解码 大模型 用广 Tokenizer 下面我们来用一个具体的流程了解下编码和解码这两个环节",
+      "score_breakdown": {
+        "score": 0.4897,
+        "clarity": 1.0,
+        "complexity": 0.1008,
+        "exposure": 0.6717,
+        "ocr": 0.2434
+      },
+      "alignment_source": "llm_anchor",
+      "keywords": [],
+      "alignment_fallback": false
+    },
+    {
+      "timestamp": "01:47",
+      "timestamp_sec": 107,
+      "chapter": "CH2",
+      "chapter_index": 2,
+      "image_path": "assets/Token 到底是什么 揭秘大模型背后的文字压缩术/file-20260223024546817.png",
+      "ocr_text": "马克的技术工作坊 |stb Token 切分 马克 喜欢 人工智能 吗 1 映射 35 36 34 编码 马克喜欢人工智能吗 [35,36,34,9] 编码 解码 大模型 用户 所以 Tokenizer 会把每一个 Token 映射为一个对应的数字 Tokenizer",
+      "score_breakdown": {
+        "score": 0.5936,
+        "clarity": 1.0,
+        "complexity": 0.1295,
+        "exposure": 0.6393,
+        "ocr": 0.5423
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "02:05",
+      "timestamp_sec": 125,
+      "chapter": "CH3",
+      "chapter_index": 3,
+      "image_path": "assets/Token 到底是什么 揭秘大模型背后的文字压缩术/file-20260223024546820.png",
+      "ocr_text": "马克的技术工作坊 |sib Token 切分 马克 喜欢 人工智能 吗 1 映射 35 36 34 编码 Token I0 马克喜欢人工智能吗 [35,36,34,9] 编码 解码 大模型 用户 我们原本的一句话就变成了一串 Token I0 列表 Tokenizer",
+      "score_breakdown": {
+        "score": 0.5874,
+        "clarity": 1.0,
+        "complexity": 0.1304,
+        "exposure": 0.6404,
+        "ocr": 0.5236
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "00:37",
+      "timestamp_sec": 37,
+      "chapter": "CH4",
+      "chapter_index": 4,
+      "image_path": "assets/Token 到底是什么 揭秘大模型背后的文字压缩术/file-20260223024546823.png",
+      "ocr_text": "马克的技术工作坊 Llbi GPT-5.2 Context Window 400,000 模型一次能处理的最大信息量 一次最多能处理 40万个 Token 我们首先要从大模型的基本运行原理开始讲起",
+      "score_breakdown": {
+        "score": 0.5404,
+        "clarity": 1.0,
+        "complexity": 0.1025,
+        "exposure": 0.6414,
+        "ocr": 0.4047
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "00:20",
+      "timestamp_sec": 20,
+      "chapter": "CH5",
+      "chapter_index": 5,
+      "image_path": "assets/Token 到底是什么 揭秘大模型背后的文字压缩术/file-20260223024546826.png",
+      "ocr_text": "马克的技术工作坊 Llibl GPT-5.2 Context Window 400,000 @马克的技术工作坊 模型一次能处理的最大信息量 一次最多能处理 40万个 Token 相信 Token 这个词大家都有听过",
+      "score_breakdown": {
+        "score": 0.5378,
+        "clarity": 1.0,
+        "complexity": 0.1027,
+        "exposure": 0.6398,
+        "ocr": 0.3981
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "00:11",
+      "timestamp_sec": 11,
+      "chapter": "CH6",
+      "chapter_index": 6,
+      "image_path": "assets/Token 到底是什么 揭秘大模型背后的文字压缩术/file-20260223024546829.png",
+      "ocr_text": "马克的技术工作坊 Llbl GPT-5.2 Context Window 400,000 模型一次能处理的最大信息量 一次最多能处理 40万个 Token 这就代表它一次最多能够处理 40万个 Token",
+      "score_breakdown": {
+        "score": 0.5133,
+        "clarity": 1.0,
+        "complexity": 0.093,
+        "exposure": 0.6391,
+        "ocr": 0.334
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    }
+  ]
+}

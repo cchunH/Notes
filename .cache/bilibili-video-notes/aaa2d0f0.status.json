@@ -1,0 +1,38 @@
+{
+  "task_id": "aaa2d0f0",
+  "status": "success",
+  "message": "完成: D:\\Notes\\Token 到底是什么 揭秘大模型背后的文字压缩术.md",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 7,
+      "min_sections": 5,
+      "max_sections": 8,
+      "complexity_hint": "时长约10.5分钟，分段密度28.7/分钟，术语命中58",
+      "note_profile": "hands_on",
+      "structure_mode": "adaptive"
+    },
+    "note_audit": {
+      "enabled": true,
+      "trigger_reason": "long_content_and_short_note",
+      "duration_min": 10.52,
+      "segment_count": 302,
+      "markdown_chars": 2964,
+      "long_content": true,
+      "low_coverage_signal": true,
+      "thresholds": {
+        "audit_min_duration_min": 15,
+        "audit_min_segments": 300,
+        "audit_min_markdown_chars": 3200
+      },
+      "executed": false
+    },
+    "note_completion": {
+      "triggered": true,
+      "missing_titles": [],
+      "has_summary_before": true,
+      "low_coverage_signal": true,
+      "added_chars": 2201
+    }
+  }
+}
