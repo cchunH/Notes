@@ -1,0 +1,31 @@
+{
+  "task_id": "f7565edc",
+  "status": "success",
+  "message": "完成: D:\\Notes\\Agent Skill 从使用到原理一次讲清.md",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 7,
+      "min_sections": 5,
+      "max_sections": 8,
+      "complexity_hint": "时长约17.7分钟，分段密度26.7/分钟，术语命中18",
+      "note_profile": "hands_on",
+      "structure_mode": "adaptive"
+    },
+    "note_audit": {
+      "enabled": true,
+      "trigger_reason": "long_content",
+      "duration_min": 17.69,
+      "segment_count": 473,
+      "markdown_chars": 3577,
+      "long_content": true,
+      "low_coverage_signal": false,
+      "thresholds": {
+        "audit_min_duration_min": 15,
+        "audit_min_segments": 300,
+        "audit_min_markdown_chars": 3200
+      },
+      "executed": false
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "summary": {
+    "task_id": "f7565edc",
+    "candidate_count": 72,
+    "scored_count": 72,
+    "deduped_count": 35,
+    "selected_count": 6,
+    "scenedetect_enabled": true,
+    "scene_threshold": 0.26,
+    "align_window_sec": 7,
+    "dedup_threshold": 0.95,
+    "alignment_fallback": true,
+    "strategy": "smart",
+    "inserted_inline": true
+  },
+  "key_points": [
+    {
+      "timestamp": "00:07",
+      "timestamp_sec": 7,
+      "chapter": "CH1",
+      "chapter_index": 1,
+      "image_path": "assets/Agent Skill 从使用到原理一次讲清/file-20260223011833908.png",
+      "ocr_text": "马克的技术工作坊 Llbl Agent Skill 只是望用它来提升 Claude",
+      "score_breakdown": {
+        "score": 0.3082,
+        "clarity": 0.5678,
+        "complexity": 0.042,
+        "exposure": 0.638,
+        "ocr": 0.0864
+      },
+      "alignment_source": "llm_anchor",
+      "keywords": [],
+      "alignment_fallback": false
+    },
+    {
+      "timestamp": "01:28",
+      "timestamp_sec": 88,
+      "chapter": "CH2",
+      "chapter_index": 2,
+      "image_path": "assets/Agent Skill 从使用到原理一次讲清/file-20260223011833915.png",
+      "ocr_text": "马克的技术工作坊 bllbi Agent Skill 是什么?",
+      "score_breakdown": {
+        "score": 0.3533,
+        "clarity": 0.8867,
+        "complexity": 0.1921,
+        "exposure": 0.3377,
+        "ocr": 0.0733
+      },
+      "alignment_source": "llm_anchor",
+      "keywords": [],
+      "alignment_fallback": false
+    },
+    {
+      "timestamp": "02:00",
+      "timestamp_sec": 120,
+      "chapter": "CH3",
+      "chapter_index": 3,
+      "image_path": "assets/Agent Skill 从使用到原理一次讲清/file-20260223011833917.png",
+      "ocr_text": "马克的技术工作坊 Llbi Agent Skill 请讲会议内容总结 回答时请注意: @马克的技术工作坊 为如下几点: 1 必须先安抚用户 1. 参会人员 2 不得随意承诺 2. 议题 3. 决定 智能客服 Skill 会议总结 Skill 大模型自己翻翻这个谗明文档 说明文档",
+      "score_breakdown": {
+        "score": 0.6128,
+        "clarity": 1.0,
+        "complexity": 0.1299,
+        "exposure": 0.6187,
+        "ocr": 0.6087
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "02:00",
+      "timestamp_sec": 120,
+      "chapter": "CH4",
+      "chapter_index": 4,
+      "image_path": "assets/Agent Skill 从使用到原理一次讲清/file-20260223011833921.png",
+      "ocr_text": "马克的技术工作坊 Llbi Agent Skill 请讲会议内容总结 回答时请注意: @马克的技术工作坊 为如下几点: 1 必须先安抚用户 1. 参会人员 2 不得随意承诺 2. 议题 3. 决定 智能客服 Skill 会议总结 Skill 大模型自己翻翻这个谗明文档 说明文档",
+      "score_breakdown": {
+        "score": 0.6128,
+        "clarity": 1.0,
+        "complexity": 0.1299,
+        "exposure": 0.6187,
+        "ocr": 0.6087
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "02:00",
+      "timestamp_sec": 120,
+      "chapter": "CH5",
+      "chapter_index": 5,
+      "image_path": "assets/Agent Skill 从使用到原理一次讲清/file-20260223011833923.png",
+      "ocr_text": "马克的技术工作坊 Llbi Agent Skill 请讲会议内容总结 回答时请注意: @马克的技术工作坊 为如下几点: 1 必须先安抚用户 1. 参会人员 2 不得随意承诺 2. 议题 3. 决定 智能客服 Skill 会议总结 Skill 大模型自己翻翻这个谗明文档 说明文档",
+      "score_breakdown": {
+        "score": 0.6128,
+        "clarity": 1.0,
+        "complexity": 0.1299,
+        "exposure": 0.6187,
+        "ocr": 0.6087
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    },
+    {
+      "timestamp": "02:00",
+      "timestamp_sec": 120,
+      "chapter": "CH6",
+      "chapter_index": 6,
+      "image_path": "assets/Agent Skill 从使用到原理一次讲清/file-20260223011833925.png",
+      "ocr_text": "马克的技术工作坊 Llbi Agent Skill 请讲会议内容总结 回答时请注意: @马克的技术工作坊 为如下几点: 1 必须先安抚用户 1. 参会人员 2 不得随意承诺 2. 议题 3. 决定 智能客服 Skill 会议总结 Skill 大模型自己翻翻这个谗明文档 说明文档",
+      "score_breakdown": {
+        "score": 0.6128,
+        "clarity": 1.0,
+        "complexity": 0.1299,
+        "exposure": 0.6187,
+        "ocr": 0.6087
+      },
+      "alignment_source": "chapter_fallback",
+      "keywords": [],
+      "alignment_fallback": true
+    }
+  ]
+}

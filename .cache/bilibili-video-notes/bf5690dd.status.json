@@ -1,0 +1,37 @@
+{
+  "task_id": "bf5690dd",
+  "status": "success",
+  "message": "完成: D:\\Notes\\AI大模型应用开发工程师面试指导真实面试场景12问-Agent多智能体MivusRAG的准确率和召回率.md",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 10,
+      "min_sections": 8,
+      "max_sections": 10,
+      "complexity_hint": "时长约26.0分钟，分段密度46.6/分钟，术语命中7",
+      "note_profile": "mock_interview",
+      "structure_mode": "adaptive"
+    },
+    "note_audit": {
+      "enabled": true,
+      "trigger_reason": "long_content",
+      "duration_min": 26.0,
+      "segment_count": 1211,
+      "markdown_chars": 6267,
+      "long_content": true,
+      "low_coverage_signal": false,
+      "thresholds": {
+        "audit_min_duration_min": 15,
+        "audit_min_segments": 300,
+        "audit_min_markdown_chars": 3200
+      },
+      "executed": true,
+      "coverage_score": 0.0,
+      "risk_level": "medium",
+      "missing_points_found": 1,
+      "missing_points_applied": 1,
+      "added_chars": 2176,
+      "summary": "< 50 chars"
+    }
+  }
+}
