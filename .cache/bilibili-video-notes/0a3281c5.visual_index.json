@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "task_id": "0a3281c5",
+    "candidate_count": 72,
+    "scored_count": 72,
+    "deduped_count": 16,
+    "anchor_count": 7,
+    "aligned_count": 7,
+    "selected_count": 0,
+    "selected_unique_count": 0,
+    "rejected_low_confidence_count": 7,
+    "strict_match_min_score": 0.68,
+    "strict_no_keyword_min_score": 0.78,
+    "strict_min_keyword_hit_ratio": 0.2,
+    "scenedetect_enabled": true,
+    "scene_threshold": 0.26,
+    "align_window_sec": 7,
+    "dedup_threshold": 0.95,
+    "alignment_fallback": false,
+    "strategy": "smart",
+    "inserted_inline": false
+  },
+  "key_points": []
+}

@@ -1,0 +1,31 @@
+{
+  "task_id": "0a3281c5",
+  "status": "success",
+  "message": "完成: D:\\Notes\\10分钟彻底搞懂LangChain快速入门与底层原理小白也能轻松学会.md",
+  "progress": null,
+  "details": {
+    "structure_budget": {
+      "target_sections": 8,
+      "min_sections": 6,
+      "max_sections": 9,
+      "complexity_hint": "时长约14.0分钟，分段密度32.1/分钟，术语命中10",
+      "note_profile": "hands_on",
+      "structure_mode": "adaptive"
+    },
+    "note_audit": {
+      "enabled": true,
+      "trigger_reason": "long_content_and_short_note",
+      "duration_min": 14.03,
+      "segment_count": 450,
+      "markdown_chars": 1850,
+      "long_content": true,
+      "low_coverage_signal": true,
+      "thresholds": {
+        "audit_min_duration_min": 15,
+        "audit_min_segments": 300,
+        "audit_min_markdown_chars": 3200
+      },
+      "executed": false
+    }
+  }
+}
