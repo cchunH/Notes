@@ -1,7 +1,9 @@
 ---
 title: AI大模型工程师就业现状，想入坑的程序员考虑清楚！走开发方向还是算法方向？大模型岗位技术门槛有那些？学历要求很高吗？大模型应用开发到底怎么学？ p06 AI大模型开发是干什么的？
 date: 2026-02-15
-tags: [学习笔记, B站]
+tags:
+  - 学习笔记
+  - B站
 source: https://www.bilibili.com/video/BV12auGzHEcy
 duration: 270.573
 ---
